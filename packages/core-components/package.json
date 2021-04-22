@@ -1,0 +1,19 @@
+{
+  "name": "@demoproject/core-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@demoproject/core": "1.0.0"
+  },
+  "devDependencies": {
+    "rollup": "2.45.2",
+    "rollup-plugin-typescript2": "0.30.0",
+    "tslib": "2.2.0"
+  }
+}

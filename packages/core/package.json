@@ -1,0 +1,13 @@
+{
+  "name": "@demoproject/core",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    "./": "./lib/"
+  },
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "author": "",
+  "license": "ISC"
+}
